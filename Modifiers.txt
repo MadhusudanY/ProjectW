@@ -1,3 +1,4 @@
 COCCD|FILENAME#replaceWithEmpty .docx#sliceLastIndexOf _ 0
 CSU|BAND#replaceFromKey(FLSA STATUS) AlphaNumericOneChar-0|GRADE#replaceFromKey(FLSA STATUS) AlphaNumericOneChar-1|SUBGRADE#replaceFromKey(FLSA STATUS) AlphaNumericOneChar-2|FLSA STATUS#replaceAsContains Non-Exempt Exempt
 CW|FILENAME#replaceWithEmpty .docx#sliceLastIndexOf _ 0
+COK|Supervisor Working Title and Classification#BreakBacK|Department#BreakBacK|Name#LTrim|Working Title#LTrim|Supervisor Working Title and Classification#LTrim
